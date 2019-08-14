@@ -16,7 +16,7 @@ function SearchTag (dataValue, inputTags){
 					console.log("correcto");
 
 					options[i].value = this.data[i].id;
-					options[i].innerHTML = "<img src= '" +this.data[i].photo + "' > " +  "<p>" + this.data[i].name + "</p>";
+					options[i].innerHTML = "<img src= '" +this.data[i].photo + "' > " +  "<div> <p>" + this.data[i].name + "</p> <p>" +  this.data[i].type + "</p></div>";
 
 					this.publication_option.appendChild(options[i]);
 				}else{
