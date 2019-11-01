@@ -18,13 +18,13 @@
     padding: 5px;
     padding-bottom: 10px;
     border:none;
-    border-bottom: 1px solid #AAAAAA;
+    border-bottom: 1px solid #77A7FF;
 }
 
 .btn_tag{
     border:none;
     display: block;
-    background: #f5f6f7;
+    background: #EBEDF0;
     color: #4b4f56;
     font-weight: bold;
     margin: 20px;
@@ -33,7 +33,8 @@
 }
 
 .btn_tag:hover{
-  background: #EBEDF0; 
+  background: #77A7FF;
+  color: #fff; 
   cursor: pointer;   
 }
 
@@ -74,4 +75,3 @@
 .content_tags div div p:nth-child(2){
     color: #aaaaaa;
 }
-
