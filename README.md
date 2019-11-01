@@ -1,4 +1,7 @@
 # search tags
+
+![](https://dl.dropboxusercontent.com/s/antdn71h95ud7p3/main_image_searchTag.jpg?dl=0)
+
 Search Tags es un plugin de javaScript que hace búsquedas de forma automática; la información obtenida puede ser 
 presentada en forma de tags o etiquetas similares a plataformas como facebook.
 
