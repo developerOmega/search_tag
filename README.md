@@ -26,7 +26,7 @@ Hay que crear un contenedor  con el id ’contentTags’.
 ```html
   <div id="contentTags" class="content_tags"></div>
 ```
-## JavaScript
+### JavaScript
 Crear una instancia del objeto SearchTag con dos parámetros; el primero debe ser  un array con objetos o un JSON y el segundo parámetro debe de contener el id del input.
 
 El objeto o JSON debe de tener las propiedades ‘id’, ‘name’, ‘photo’ y ‘type’. El id debe ser de tipo entero; name, photo y type de tipo string.
@@ -49,7 +49,7 @@ Para correr la función del plugin, invocamos el método tag() de la instancia s
 ```
 Esta es la forma en la que el plugin funciona.
 
-## CSS
+### CSS
 Esto es opcional, puedes utilizar los estilos del repositorio.
 
 ### Clases.
