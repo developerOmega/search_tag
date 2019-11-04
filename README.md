@@ -52,7 +52,7 @@ Esta es la forma en la que el plugin funciona.
 ### CSS
 Esto es opcional, puedes utilizar los estilos del repositorio.
 
-### Clases.
+#### Clases.
 - *form_tag:* Agrega los estilos al formulario; se agrega en el form.
 - *flex_column:* los elementos hijo del form estan es posición de tipo columna.
 - *btn_tag:* Agrega estilos a los botones.
